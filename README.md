@@ -77,26 +77,26 @@ Interested in **research-driven** and **applied ML** environments that value rig
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlbertNewton254&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelMochizukiDev&theme=github_dark" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlbertNewton254&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelMochizukiDev&theme=github_dark" />
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbertNewton254&bg_color=0D1117&color=3BAFDA&line=3BAFDA&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelMochizukiDev&bg_color=0D1117&color=3BAFDA&line=3BAFDA&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/AlbertNewton254?label=Followers&style=flat&color=3BAFDA" />
+  <img src="https://img.shields.io/github/followers/AMiguelMochizukiDev?label=Followers&style=flat&color=3BAFDA" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/AlbertNewton254?label=Stars&style=flat&color=3BAFDA" />
+  <img src="https://img.shields.io/github/stars/MiguelMochizukiDevlabel=Stars&style=flat&color=3BAFDA" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AlbertNewton254&color=3BAFDA" />
+  <img src="https://komarev.com/ghpvc/?username=MiguelMochizukiDev&color=3BAFDA" />
 </div>
 
 <br />
